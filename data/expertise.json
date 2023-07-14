@@ -1,0 +1,26 @@
+[
+  {
+    "title": "JAVA",
+    "image": "/images/expertise/java.svg"
+  },
+  {
+    "title": "AWS",
+    "image": "/images/expertise/aws.svg"
+  },
+  {
+    "title": "DevOps",
+    "image": "/images/expertise/devops.svg"
+  },
+  {
+    "title": "IoT",
+    "image": "/images/expertise/iot.svg"
+  },
+  {
+    "title": "Chatbots",
+    "image": "/images/expertise/chtbot.svg"
+  },
+  {
+    "title": "CryptoTrading",
+    "image": "/images/expertise/crypto.svg"
+  }
+]

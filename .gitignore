@@ -1,0 +1,9 @@
+# Installations
+node_modules
+public
+resources
+
+# Folders / Files
+.DS_Store
+.idea
+.vs_code
